@@ -1,0 +1,4 @@
+# Do NOT use!!!
+        [upsmon]
+                password  = pass
+                upsmon master
