@@ -37,4 +37,4 @@ https://github.com/dzomaya/TestingConfigs/blob/main/ups.conf
 5. Reboot or restart the driver (upsdrvctl start) & upsmon (upsmon -c reload)
 
 6. Test the new configuration! Using Network UPS Tool's fsd (see: https://networkupstools.org/docs/man/upsmon.html) can help, but for end to end testing you probably want to:
-Safely place the UPS on battery and confirm the Operating System and then UPS, gracefully shut down. 
+Safely place the UPS on battery and confirm the Operating System and then UPS gracefully shut down. 
