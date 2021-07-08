@@ -1,6 +1,6 @@
 <!--Add your Event Data and Event ID-->
 <QueryList>
   <Query Id="0" Path="Application">
-    <Select Path="Application">*[System[Provider[@Name='PowerAlert Agent'] and (EventID=100)]] and *[EventData[Data[1]='Device 1: The Set Audible Alarm control was activated']]</Select>
+    <Select Path="Application">*[System[Provider[@Name='PowerAlert Agent'] and (EventID=202)]] and *[EventData[Data[1]='Device 1: On Battery']]</Select>
   </Query>
 </QueryList>
