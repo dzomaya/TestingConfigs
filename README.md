@@ -1,5 +1,6 @@
 # TestingConfigs
-Used as a sandbox for configurations and docs before they are production ready
+Used as a sandbox for configurations and docs before they are production ready.
+
 Hi there!
 Chances are you found this page because we're talking about a configuration for something like Network UPS Tools, some SNMP or RESTful API monitoring, or some other similar Tripp Lite UPS/PDU configuration. Alternatively, a web search may have gotten you here. Hopefully, this information proves useful, but please note:
 
